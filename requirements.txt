@@ -1,0 +1,6 @@
+matplotlib
+numba
+numpy
+scipy
+scikit-learn
+opencv-python
