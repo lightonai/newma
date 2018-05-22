@@ -1,8 +1,7 @@
 # NEWMA
 A new method for scalable model-free online change-point detection.
 
-This repository contains the code for 
-[NEWMA: a new method for scalable model-free online change-point detection](https://arxiv.org/abs/1805.08061).
+This repository contains the code for [NEWMA: a new method for scalable model-free online change-point detection](https://arxiv.org/abs/1805.08061), *Nicolas Keriven, Damien Garreau, Iacopo Poli*.
 
 ## Requirements
 The code is written for Python 3.  
