@@ -1,0 +1,11 @@
+font.size        : 22.0
+axes.titlesize : medium
+legend.fontsize  : medium
+axes.labelsize : medium
+lines.linewidth : 3
+lines.markersize : 10
+xtick.labelsize : small
+ytick.labelsize : small
+grid.color       :   k       # grid color
+grid.linestyle   :   :       # dotted
+grid.linewidth : 0.5 # in points
