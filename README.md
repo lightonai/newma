@@ -31,5 +31,12 @@ The subdirectory contains its `README.md`.
 ## To cite this work
 
 ```
-@ARTICLE{9078835, author={N. {Keriven} and D. {Garreau} and I. {Poli}}, journal={IEEE Transactions on Signal Processing}, title={NEWMA: a new method for scalable model-free online change-point detection}, year={2020}, volume={}, number={}, pages={1-1},} 
+@ARTICLE{9078835, 
+author={N. {Keriven} and D. {Garreau} and I. {Poli}}, 
+journal={IEEE Transactions on Signal Processing}, 
+title={NEWMA: a new method for scalable model-free online change-point detection}, 
+year={2020}, 
+volume={}, 
+number={}, 
+pages={1-1},} 
 ```
